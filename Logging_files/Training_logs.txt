@@ -1,0 +1,11 @@
+
+2022-09-17	20:53:38	Data arrangement started
+2022-09-17	20:53:38	Data Renamed successfull
+2022-09-17	20:53:38	Dropping waste columns is successfull
+2022-09-17	20:53:38	Target variable encoding is successfull
+2022-09-17	20:53:38	Data arrangement is complete
+2022-09-17	20:53:38	Data pre-processing started
+2022-09-17	20:53:54	Data preprocessing is complete
+2022-09-17	20:53:54	Vectorization of text data is complete
+2022-09-17	20:53:54	Splitting the data is complete
+2022-09-17	20:53:58	data augmentation is complete
